@@ -1,0 +1,6 @@
+{
+	"boards": [
+		{"name": "[SET_BOARD_NAME_HERE]", "url":"http://m.cafe.daum.net/[SET_BOARD_URL_HERE]"},
+		{"name": "[SET_BOARD_NAME_HERE]", "url":"http://m.cafe.daum.net/[SET_BOARD_URL_HERE]"}
+	]
+}
